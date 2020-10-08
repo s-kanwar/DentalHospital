@@ -9,6 +9,9 @@ header,
 section {
   overflow-x: hidden;
 }
+.overlay-x{
+  overflow-x: hidden;
+}
 .margin-class-top{
   margin-top: 3rem;
 }
