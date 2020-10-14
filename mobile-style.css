@@ -94,13 +94,18 @@
   }
 
   .portfolio-img {
-    margin: 1rem 1rem 2rem 1rem;
+    margin: 1rem 1rem 1rem 1rem;
     order: 1;
   }
 
   .portfolio-description {
     margin: 0;
     order: 2;
+  }
+  .portfolio-item img{
+    margin-top: 4rem;
+    height: 25rem;
+    width: 35rem;
   }
 
 }
@@ -140,6 +145,8 @@
 
 
 @media only screen and (max-width: 575px) {
+
+ 
   .column {
     float: left;
     width: 50%;
