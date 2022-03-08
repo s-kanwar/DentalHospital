@@ -14,7 +14,8 @@ function openModal() {
   // Next/previous controls
   function plusSlides(n) {
     showSlides(slideIndex += n);
-  }
+  }console.log("hello")
+
   
   // Thumbnail image controls
   function currentSlide(n) {
